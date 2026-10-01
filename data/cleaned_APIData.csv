@@ -1,0 +1,98 @@
+Crash Date,Crash Time,Borough,Persons Injured,Persons Killed,Factor Vehicle 1,Factor Vehicle 2,Collision ID,Vehicle 1 Type,Vehicle 2 Type
+2022-02-25,11:48,QUEENS,0,0,Following Too Closely,Following Too Closely,4514144,E-Scooter,Sedan
+2022-03-05,14:52,MANHATTAN,0,0,Unspecified,Unspecified,4514151,Sedan,
+2022-03-08,20:00,BROOKLYN,0,0,Unspecified,Unspecified,4522285,Sedan,
+2022-03-10,8:30,BROOKLYN,4,0,Other Vehicular,Following Too Closely,4514323,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-14,10:30,QUEENS,0,0,Unspecified,Unspecified,4514390,Station Wagon/Sport Utility Vehicle,
+2022-03-16,15:44,MANHATTAN,1,0,Unspecified,Unspecified,4514194,Bike,
+2022-03-20,10:34,MANHATTAN,1,0,Backing Unsafely,Unspecified,4514302,Sedan,
+2022-03-21,12:05,MANHATTAN,1,0,Following Too Closely,Unspecified,4514237,Motorcycle,Sedan
+2022-03-22,9:07,BROOKLYN,1,0,Aggressive Driving/Road Rage,Unspecified,4514139,Sedan,
+2022-03-22,8:20,BRONX,1,0,Turning Improperly,Unspecified,4514277,Sedan,Bike
+2022-03-23,21:00,QUEENS,0,0,Unspecified,Unspecified,4514334,Sedan,
+2022-03-24,23:00,BRONX,1,0,Unspecified,Unspecified,4514182,Sedan,
+2022-03-24,18:05,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4514251,Sedan,Station Wagon/Sport Utility Vehicle
+2022-03-25,18:13,BROOKLYN,2,0,Unspecified,Unspecified,4514376,Sedan,Sedan
+2022-03-25,8:45,BROOKLYN,2,0,Unspecified,Unspecified,4514367,Sedan,Sedan
+2022-03-25,6:35,BRONX,0,0,Following Too Closely,Unspecified,4514189,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-25,0:00,BRONX,0,0,Driver Inattention/Distraction,Unspecified,4514180,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-25,21:35,MANHATTAN,0,0,Following Too Closely,Unspecified,4514155,Taxi,Sedan
+2022-03-25,13:21,BRONX,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4514221,Sedan,Sedan
+2022-03-25,9:55,QUEENS,0,0,Driver Inattention/Distraction,Unspecified,4514217,Sedan,Sedan
+2022-03-26,14:00,STATEN ISLAND,0,0,Driver Inattention/Distraction,Unspecified,4513697,Sedan,Sedan
+2022-03-26,1:02,MANHATTAN,1,0,Traffic Control Disregarded,Unspecified,4513935,Sedan,Moped
+2022-03-26,16:02,QUEENS,1,0,Lost Consciousness,Unspecified,4513794,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,16:05,QUEENS,1,0,Following Too Closely,Unspecified,4514267,Station Wagon/Sport Utility Vehicle,Bus
+2022-03-26,5:13,QUEENS,0,0,Failure to Yield Right-of-Way,Unspecified,4513470,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,17:42,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4513751,Sedan,
+2022-03-26,12:18,BRONX,2,0,Failure to Yield Right-of-Way,Unspecified,4514075,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,20:10,BRONX,0,0,Unspecified,Unspecified,4513857,Station Wagon/Sport Utility Vehicle,
+2022-03-26,15:45,BRONX,2,0,Alcohol Involvement,Unspecified,4514202,Station Wagon/Sport Utility Vehicle,
+2022-03-26,17:55,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4514347,Sedan,
+2022-03-26,0:50,BROOKLYN,0,0,Unsafe Speed,Unspecified,4513495,Sedan,Station Wagon/Sport Utility Vehicle
+2022-03-26,14:05,BROOKLYN,1,0,Unsafe Speed,Unspecified,4513874,Station Wagon/Sport Utility Vehicle,Motorcycle
+2022-03-26,7:36,BROOKLYN,0,0,Brakes Defective,Unspecified,4513515,Station Wagon/Sport Utility Vehicle,Taxi
+2022-03-26,11:50,BROOKLYN,2,0,Failure to Yield Right-of-Way,Unspecified,4513663,Station Wagon/Sport Utility Vehicle,
+2022-03-26,17:42,QUEENS,0,0,Passing Too Closely,Unspecified,4513953,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,1:45,MANHATTAN,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4513985,Sedan,Sedan
+2022-03-26,17:00,BROOKLYN,0,0,Passing or Lane Usage Improper,Unspecified,4514084,Sedan,Station Wagon/Sport Utility Vehicle
+2022-03-26,8:21,MANHATTAN,0,0,Driver Inattention/Distraction,Unspecified,4513564,Box Truck,Station Wagon/Sport Utility Vehicle
+2022-03-26,10:30,BROOKLYN,0,0,Backing Unsafely,Unspecified,4513587,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,13:48,MANHATTAN,1,0,Unspecified,Unspecified,4513565,,
+2022-03-26,23:45,QUEENS,1,0,Driver Inattention/Distraction,Unspecified,4513637,Sedan,Sedan
+2022-03-26,16:00,BROOKLYN,1,0,Driver Inattention/Distraction,Unspecified,4513833,Sedan,Sedan
+2022-03-26,23:17,MANHATTAN,1,0,Following Too Closely,Unspecified,4513887,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,21:25,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4513774,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,20:10,BRONX,1,0,Unspecified,Unspecified,4513982,Sedan,
+2022-03-26,3:05,BROOKLYN,1,0,Unspecified,Unspecified,4513664,Sedan,
+2022-03-26,4:34,BRONX,1,0,Unspecified,Unspecified,4513725,Station Wagon/Sport Utility Vehicle,
+2022-03-26,19:56,BROOKLYN,0,0,Unspecified,Unspecified,4514298,Sedan,
+2022-03-26,12:40,BROOKLYN,0,0,Unspecified,Unspecified,4513573,Sedan,Sedan
+2022-03-26,1:58,BRONX,0,0,Turning Improperly,Unspecified,4514201,Sedan,Sedan
+2022-03-26,0:30,BROOKLYN,0,0,Unspecified,Unspecified,4514125,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,20:05,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4514278,Sedan,Sedan
+2022-03-26,17:54,BROOKLYN,4,0,Passing Too Closely,Unspecified,4513803,Sedan,Station Wagon/Sport Utility Vehicle
+2022-03-26,16:35,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4513878,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,19:50,MANHATTAN,1,0,Passenger Distraction,Unspecified,4513735,E-Bike,BOX VAN
+2022-03-26,13:19,QUEENS,0,0,Failure to Yield Right-of-Way,Unspecified,4513958,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,10:10,BROOKLYN,0,0,Passing or Lane Usage Improper,Unspecified,4513681,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,14:30,STATEN ISLAND,0,0,Backing Unsafely,Unspecified,4513923,Sedan,Sedan
+2022-03-26,19:00,BROOKLYN,0,0,Backing Unsafely,Unspecified,4513752,Sedan,
+2022-03-26,16:40,BROOKLYN,2,0,Passing or Lane Usage Improper,Unspecified,4513860,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,14:54,MANHATTAN,0,0,Passing or Lane Usage Improper,Unspecified,4513708,Sedan,Taxi
+2022-03-26,5:02,BROOKLYN,0,0,Fell Asleep,Unspecified,4513496,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,22:54,BROOKLYN,0,0,Failure to Yield Right-of-Way,Unspecified,4513680,Taxi,Sedan
+2022-03-26,21:00,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4513861,Sedan,
+2022-03-26,17:29,BROOKLYN,1,0,Driver Inattention/Distraction,Unspecified,4514326,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,2:10,MANHATTAN,1,0,Failure to Yield Right-of-Way,Unspecified,4513739,Bike,
+2022-03-26,4:00,BRONX,0,0,Unsafe Speed,Unspecified,4514209,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,4:34,QUEENS,0,0,Unsafe Speed,Unspecified,4513795,Sedan,
+2022-03-26,14:41,BROOKLYN,0,0,Passing or Lane Usage Improper,Unspecified,4513572,Station Wagon/Sport Utility Vehicle,
+2022-03-26,18:00,QUEENS,0,0,Unspecified,Unspecified,4513591,Sedan,Sedan
+2022-03-26,13:20,STATEN ISLAND,1,0,Traffic Control Disregarded,Unspecified,4513701,Station Wagon/Sport Utility Vehicle,4 dr sedan
+2022-03-26,12:00,QUEENS,0,0,Unspecified,Unspecified,4513548,Sedan,
+2022-03-26,13:28,BROOKLYN,1,0,Following Too Closely,Unspecified,4514046,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,19:12,QUEENS,0,0,Unsafe Speed,Unspecified,4513581,Station Wagon/Sport Utility Vehicle,Sedan
+2022-03-26,21:29,QUEENS,1,0,Unsafe Speed,Unspecified,4513772,Bike,
+2022-03-26,22:30,BROOKLYN,0,0,Passing or Lane Usage Improper,Unspecified,4514166,Sedan,
+2022-03-26,18:17,QUEENS,0,0,Passing or Lane Usage Improper,Unspecified,4513782,Sedan,Station Wagon/Sport Utility Vehicle
+2022-03-26,3:23,BRONX,1,0,Following Too Closely,Unspecified,4513994,Box Truck,Sedan
+2022-03-26,1:45,BROOKLYN,0,0,Driver Inattention/Distraction,Unspecified,4513503,Taxi,Station Wagon/Sport Utility Vehicle
+2022-03-26,18:19,MANHATTAN,0,0,Unspecified,Unspecified,4514070,Sedan,
+2022-03-26,23:00,QUEENS,0,0,Alcohol Involvement,Unspecified,4513952,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-03-26,18:00,BROOKLYN,0,0,Unsafe Speed,Unspecified,4513827,Sedan,Sedan
+2022-04-07,14:14,MANHATTAN,0,0,Driver Inattention/Distraction,Passing or Lane Usage Improper,4522242,Sedan,Station Wagon/Sport Utility Vehicle
+2022-04-12,19:56,BROOKLYN,1,0,Failure to Yield Right-of-Way,Unspecified,4522136,Station Wagon/Sport Utility Vehicle,
+2022-04-22,12:00,BROOKLYN,1,0,Unspecified,Unspecified,4522228,Sedan,Pick-up Truck
+2022-04-24,1:30,BROOKLYN,0,0,Unspecified,Unspecified,4522015,Station Wagon/Sport Utility Vehicle,
+2022-04-24,6:00,QUEENS,0,0,Unsafe Lane Changing,Unspecified,4521460,Sedan,Station Wagon/Sport Utility Vehicle
+2022-04-24,21:40,BRONX,0,0,Alcohol Involvement,Unspecified,4522156,Taxi,Station Wagon/Sport Utility Vehicle
+2022-04-24,17:45,BRONX,0,0,Driver Inattention/Distraction,Unspecified,4521633,Sedan,
+2022-04-24,0:00,BRONX,0,0,Driver Inattention/Distraction,Unspecified,4521801,Sedan,
+2022-04-24,15:35,MANHATTAN,1,0,View Obstructed/Limited,Unspecified,4521853,Station Wagon/Sport Utility Vehicle,Bike
+2022-04-24,4:20,BROOKLYN,1,0,Traffic Control Disregarded,Unspecified,4522167,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+2022-04-24,20:13,QUEENS,0,0,Aggressive Driving/Road Rage,Unspecified,4521859,Sedan,
+2022-04-24,15:21,QUEENS,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,4521590,Sedan,Sedan
+2022-04-24,21:00,QUEENS,1,0,Driver Inattention/Distraction,Unspecified,4521684,Sedan,Sedan
+2022-04-24,21:40,QUEENS,0,0,Reaction to Uninvolved Vehicle,Unspecified,4521858,Ambulance,Station Wagon/Sport Utility Vehicle
+2022-07-12,17:50,BROOKLYN,0,0,Oversized Vehicle,Unspecified,4545699,Sedan,
